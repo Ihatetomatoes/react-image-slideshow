@@ -3,9 +3,7 @@ Working files for my YouTube tutorial.
 
 ## Related Video
 
-[![React Image Slideshow Tutorial](v116-React-Image-Slideshow-Tutorial.jpg)](#)
-upload in progress
-
+[![React Image Slideshow Tutorial](v116-React-Image-Slideshow-Tutorial.jpg)](https://www.youtube.com/watch?v=3ax9TW2c2bY)
 
 ## How to use
 
